@@ -1,0 +1,26 @@
+_repo: Vampires-and-Vampirism_62873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Dudley
+    birthdate: 1868
+    deathdate: 1949
+    gutenberg_agent_id: '37450'
+    url: http://www.gutenberg.org/2009/agents/37450
+description: ''
+gutenberg_issued: '2020-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62873'
+  lccn: '20017868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Vampires'
+- !lcc 'BF'
+- GITenberg
+title: Vampires and Vampirism
+url: http://www.gutenberg.org/ebooks/62873
